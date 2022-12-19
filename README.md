@@ -12,7 +12,7 @@
 <h3 align="left"> Conéctate conmigo:</h3>
 <p alinear="izquierda">
 <a href="https://twitter.com/roque_cr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/twitter.svg" alt="roque_cr" height="30" width="40" /></a>
-<a href="https://instagram.com/roque .cr" target="en blanco"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram .svg" alt="roque.cr" height="30" width="40" /></a>
+<a href="https://instagram.com/roque.cr" target="en blanco"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram .svg" alt="roque.cr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Idiomas y Herramientas:</h3>
