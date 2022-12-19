@@ -5,9 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/roqueecr" target="blank"><img src="https://img.shields.io/twitter/follow/roqueecr?logo=twitter&style=for-the-badge" alt="roqueecr" /></a> </p>
 
-- 💬 Ask me about **react, html ,css ...**
-
-- 📫 How to reach me **chao.roque@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
