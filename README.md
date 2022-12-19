@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roquecr00&label=Profile%20views&color=0e75b6&style=flat" alt="roquecr00" /> </p>
 
-<p align="left"> <a href="https://twitter.com/roqueecr" target="blank"><img src="https://img.shields.io/twitter/follow/roqueecr?logo=twitter&style=for-the-badge" alt="roqueecr" /></a> </p>
+
 
 
 <h3 align="left">Connect with me:</h3>
