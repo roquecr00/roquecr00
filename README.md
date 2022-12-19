@@ -1,3 +1,4 @@
+<div align="center">
 <h1 align="center">Hi 👋, I'm Roque</h1>
 <h3 align="center">A passionat developer from Spain</h3>
 
@@ -24,3 +25,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=roquecr00&show_icons=true&locale=en&layout=compact" alt="roquecr00" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roquecr00&" alt="roquecr00" /></p>
+</div>
