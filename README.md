@@ -12,7 +12,7 @@
 <a href="https://twitter.com/roqueecr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="roqueecr" height="30" width="40" /></a>
 <a href="https://instagram.com/roque.cr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="roque.cr" height="30" width="40" /></a>
   <a target="_blank" href="mailto:chao.roque@gmail.com">
-  <img align="center" alt="Gmail" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.m.wikipedia.org%2Fwiki%2FArchivo%3AGmail_icon_%25282020%2529.svg&psig=AOvVaw0Yi5l2QYsNp2QniF2XQxHL&ust=1671535540265000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCIi3naLJhfwCFQAAAAAdAAAAABAE)" />
+  <img align="center" alt="Gmail" width="22px" src="<i class="fa-regular fa-envelope"></i> />
 </a>
   <a href="https://linkedin.com/in/roque-chao-rama-535667243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roque chao rama" height="30" width="40" /></a>
 
