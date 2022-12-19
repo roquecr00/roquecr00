@@ -12,7 +12,7 @@
   
 <a href="https://twitter.com/roqueecr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="roqueecr" height="30" width="40" /></a> 
 <a href="https://instagram.com/roque.cr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="roque.cr" height="30" width="40" /></a>   
-  <a href="mailto:chao.roque@gmail.com" target="blank"><img align="center" alt="Gmail" width="40" height="30" src="icons/google-gmail.svg" /></a>   
+  <a href="mailto:chao.roque@gmail.com" target="blank"><img align="center" alt="Gmail" width="40" height="30" src="[icons/google-gmail.svg](https://raw.githubusercontent.com/get-icon/geticon/master/icons/google-gmail.svg)" /></a>   
   <a href="https://linkedin.com/in/roque-chao-rama-535667243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roque chao rama" height="30" width="40" /></a>
 
 </p>
