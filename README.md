@@ -13,6 +13,9 @@
 <p align="left">
 <a href="https://twitter.com/roqueecr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="roqueecr" height="30" width="40" /></a>
 <a href="https://instagram.com/roque.cr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="roque.cr" height="30" width="40" /></a>
+  <a target="_blank" href="mailto:chao.roque@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
